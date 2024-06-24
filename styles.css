@@ -1,0 +1,33 @@
+body {
+  background: red;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: cyan;
+  font-size: 30px;
+}
+
+a:hover {
+  color: beige;
+}
+
+p {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p > .a {
+  color: black;
+}
+
+P > .b {
+  color: green;
+  font-size: 50px;
+}
